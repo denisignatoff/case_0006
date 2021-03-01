@@ -1,0 +1,28 @@
+@media (max-width: 500px) {
+  .footer__register {
+    font-size: 20px;
+  }
+
+  .form-inv__title {
+    font-size: 21px;
+  }
+  
+  .form-inv label {
+    padding: 0 15px;
+  }
+
+  .form-inv button[type = submit] {
+    width: calc(100% - 30px);
+    font-size: 20px;
+  }
+
+  .feedback .section__title {
+    font-size: 24px;
+  }
+
+  .about .section__title {
+    font-size: 26px;
+    height: 45px;
+    margin-top: 0;
+  }
+}
